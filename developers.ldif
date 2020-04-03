@@ -1,0 +1,4 @@
+dn:cn=developers,ou=users,dc=buschecnc,dc=com
+cn:developers
+objectClass:groupOfNames
+member:cn=adam,ou=users,dc=buschecnc,dc=com

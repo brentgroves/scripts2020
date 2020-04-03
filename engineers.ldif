@@ -1,0 +1,5 @@
+dn:cn=engineers,ou=users,dc=buschecnc,dc=com
+cn:engineers
+objectClass:groupOfNames
+member:cn=adam,ou=users,dc=buschecnc,dc=com
+member:cn=poppers,ou=users,dc=buschecnc,dc=com

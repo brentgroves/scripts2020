@@ -1,0 +1,17 @@
+# cat adam.ldif
+dn:uid=poppers,ou=users,dc=buschecnc,dc=com
+objectClass:top
+objectClass:account
+objectClass:posixAccount
+objectClass:shadowAccount
+cn:poppers
+uid:poppers
+uidNumber:22222
+gidNumber:100
+homeDirectory:/home/poppers
+loginShell:/bin/bash
+gecos:poppers
+userPassword:{crypt}x
+shadowLastChange:0
+shadowMax:0
+shadowWarning:0
